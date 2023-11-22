@@ -1,2 +1,2 @@
 # UoA_RERASSOR_2023
-Open-sourced software, hardware CAD files, and documentation for the 2023 RE-RASSOR Honours team
+The aim of the 2023 University of Adelaide RE-RASSOR Honours Project was to design and test advanced prototype versions of the Research and Education Regolith Advanced Surface Systems Robot (RE-RASSOR) that can communicate and utilise an autonomous tooling interchange system to facilitate further research and development into lunar site preparation, excavation and in-situ resource utilisation. This repository open-sources the software, hardware CAD files, and documentation for the 2023 RE-RASSOR Honours team.
